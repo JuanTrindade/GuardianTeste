@@ -29,7 +29,7 @@ pip install psycopg2-binary
 E pronto, agora o projeto está quase pronto pra ser inicializado!
 
 ## CONFIGURANDO A BASE DE DADOS
-A base de dados utilizada nestá aplicação é um ``PostgreSQL`` pressuponto que você já tera o mesmo instalado na máquina, apenas acesse o shell do postgre e rode:
+A base de dados utilizada nestá aplicação é um ``PostgreSQL`` pressupondo que você já tera o mesmo instalado na máquina, apenas acesse o shell do postgre e rode:
 ```
 CREATE DATABASE my_db;
 ```
